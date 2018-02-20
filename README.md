@@ -1,3 +1,7 @@
+# temp repo until PR 550 is fixed
+see 
+https://github.com/agenda/agenda/pull/550
+
 <p align="center">
   <img src="https://cdn.rawgit.com/agenda/agenda/master/agenda.svg" alt="Agenda" width="100" height="100">
 </p>
